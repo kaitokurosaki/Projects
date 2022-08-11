@@ -20,43 +20,43 @@ Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼
 
 ### 2022 Mossverse Hackathon
 
-모스버스(모스랜드 메타버스)의 미니 서비스를 오픈소스 해커톤으로 개발하는 프로젝트 입니다. 모스버스 해커톤을 통해 모스버스 안에 다양한 콘텐츠를 오픈소스로 개발하고 공급하는 것이 목표입니다. 해커톤은 공개된 GitHub Repository에서 진행되며 누구나 아이디어를 제안하고 개발에 참여할 수 있습니다.
+This is a project to develop the mini service of Moss Bus (Mosland Metaverse) as an open source hackathon. The goal is to develop and supply various contents as open source in Moss Bus through the Moss Bus Hackathon. Hackathons are held in the public GitHub Repository, where anyone can propose ideas and participate in development.
 
 - [GitHub - mossland/Hackathon](https://github.com/mossland/Hackathon)
 
 ### 2022 CyberTHUG Gecko Club
 
-CyberTHUG Gecko Club(이하 사이버더그 게코 클럽)은 NFT 크레스티드 게코 도마뱀을 브리딩하는 NFT 게임입니다. 사이버더그 게코 클럽에서 모티브로 삼은 게코는 크레스티드 게코이며, 붙이류 도마뱀 중 하나로  뉴칼레도니아에서 서식합니다. 팔레트 게코라고 불리울 만큼 실제로 브리딩을 통해 다양한 모프가 개발되고 있으며, [현실판 NFT]라 할 수 있습니다.
+CyberTHUG Gecko Club is an NFT game that breeds NFT crested gecko lizards. The gecko, inspired by the Cyberdug Gecko Club, is the crested gecko, and is one of the gecko lizards native to New Caledonia. In fact, various morphs are being developed through breeding enough to be called a palette gecko, and it can be called [physical-NFT].
 
 - [Homepage](https://gecko.thecyberthug.com/)
 - [Guidebook](https://cyberthuggeckoclub.notion.site/CyberTHUG-Gecko-Club-Guidebook-2f5cb5a1b23d4257b75552d3190fdf76)
 
 ### 2022 CyberTHUG PFP-NFT
 
-CyberTHUG는 모스랜드에서 시작한 PFP(Profile Picture) NFT 프로젝트입니다. 독특한 컨셉의 THUG 캐릭터들이 모여 CyberTHUG DAO를 구성하고, PSA(Public Service Announcement) 를 지향하는 P2E 서비스를 개발하고 있습니다. 블록체인 기술과 P2E 의 인센티브 모델로 구현된 선한 영향력으로 사람들의 행동과 사회의 모습을 바꿔 나갈 수 있도록 노력하고 있습니다.
+CyberTHUG is a Profile Picture (PFP) NFT project started by Mossland. THUG characters with a unique concept gather to form the CyberTHUG DAO, and develop P2E services aimed at PSA (Public Service Announcement). We are working hard to change people's behavior and society with the good influence implemented with blockchain technology and the incentive model of P2E.
 
 - [Homepage](https://www.thecyberthug.com/)
 
-### 2021 e스포츠 AMX 승부예측
+### 2021 eSports AMX Game Prediction
 
-한국 최초 프로 e스포츠 레이싱 대회 “코오롱 AMX e스포츠 챔피언십”의 승부예측 이벤트를 AMX와 모스랜드가 함께 진행합니다. “코오롱 AMX e스포츠 챔피언십”는 AMX와 주식회사 아프리카 콜로세움이 공동으로 개최하는 e스포츠 레이싱 대회입니다. 2021년 10월 27일, 28일 양일간 이벤트가 진행됩니다.
+AMX and Mossland are holding the match prediction event of the first professional e-sports racing competition in Korea, “Kolon AMX Esports Championship”. “Kolon AMX Esports Championship” is an e-sports racing competition jointly hosted by AMX and Africa Colosseum. The event will be held on October 27th and 28th, 2021.
 
 - [Homepage](https://amx.s999.kr/)
 - [Trailer](https://www.youtube.com/watch?v=GvLMefVyoag)
 - [AMX](http://amxesports.com/)
 
-### 2021 승부예측 999
+### 2021 'Game Prediction 999'
 
-'승부예측 999'는 스포츠 경기 승부를 예측하고 그 결과에 따라 상금을 받는 서비스입니다. 참가자는 매일 제시되는 스포츠 경기 결과를 예측합니다. 예측 결과에 따라 순위가 매겨지고 순위에 따라 매주 모스코인(MOC)을 상금으로 받을 수 있습니다.
+'Game Prediction 999' is a service that predicts the outcome of a sports match and receives a prize according to the result. Participants predict the results of sports competitions presented daily. You will be ranked according to the prediction results, and you can receive Moss Coin (MOC) as a prize every week according to your ranking.
 
-- 2021년 4월 1일 서비스 오픈 ~ 2022년 3월 8일 서비스 종료
+- Service open on April 1, 2021 ~ End of service on March 8, 2022
 - <del>[Google Play](https://play.google.com/store/apps/details?id=com.mossland.s999)</del>
 - <del>[Homepage](https://s999.kr/)</del>
 - [Trailer](https://www.youtube.com/watch?v=H1-C9yFOY1c)
 
 ### 2020 ROYAL MARBLE
 
-로얄마블은 부루마블 매니저 게임입니다. 사용자는 게임 내 건물, 아바타, 주사위 등의 요소들을 조합하여 다른 사용자와 1:1 대결을 펼칠 수 있습니다. 모스랜드 플랫폼 내 서비스들의 본격적인 글로벌 진출을 알리는 첫 모바일 게임이 될 예정입니다.
+Royal Marble is a Blue Marble manager game. Users can combine elements such as buildings, avatars, and dice in the game to engage in 1:1 battles with other users. It will be the first mobile game to announce the full-fledged global expansion of services within the Mossland platform.
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.realityreflection.mossmarblemanager)
 - [Trailer](https://www.youtube.com/watch?v=D0z5kfR-bz0)
@@ -80,23 +80,22 @@ Gangsta Underground is a gangsters heads up poker league which takes place in a 
 
 ### 2019 THE HUNTERS
 
-더 헌터스는 위치기반 게이밍 리워드 앱입니다. 사용자는 주변에 흩어진 골드를 수집하고, 해당 골드를 랜드마크 체크인을 통해 모스코인으로 교환합니다. 교환한 모스코인으로 상품을 구매하거나 개인 월렛으로 출금할 수 있습니다.
-- 2019년 5월 20일 서비스 오픈 ~ 2020년 5월 18일 서비스 조기 종료
-- Covid-19 대응 활동에 동참하기 위하여 조기 서비스 종료
+The Hunters is a location-based gaming rewards app. Users collect gold scattered around and exchange the gold for Moss Coins through landmark check-in. You can purchase products with the exchanged Moss Coins or withdraw to your personal wallet.
+- Service open on May 20, 2019 ~ Early termination of service on May 18, 2020
+- Early termination of service to participate in Covid-19 response activities
 - [Trailer](https://www.youtube.com/watch?v=wkkjPZlsCL8)
 - [Guide video](https://www.youtube.com/watch?v=3vv0suiKr4Q)
 - [HNINE](https://www.hnine.com/project/the-hunters-app.html)
 
 ### 2018 THE AUCTION
-
-모스랜드 더 옥션은 모스랜드에서 이용되는 가상 랜드마크를 판매하는 경매 서비스 입니다. 모스랜드 더 옥션에서 랜드마크 매매를 통해 누구나 롯데월드타워, 에펠탑, 자유의 여신상 같이 유명 랜드마크의 주인이 될 수 있습니다.
-- 2018년 10월 12일 서비스 오픈 ~ 2020년 2월 26일 서비스 종료
+Mossland The Auction is an auction service that sells virtual landmarks used in Mossland. Anyone can become the owner of famous landmarks such as Lotte World Tower, Eiffel Tower, and the Statue of Liberty through landmark trading at Mossland The Auction.
+- Service open on October 12, 2018 ~ End of service on February 26, 2020
 - <del>[Homepage](https://auction.moss.land)</del>
 - [Guide video](https://www.youtube.com/watch?v=wySgBhPkfi8)
 
 ### 2018 GAME JAM SEOUL
 
-모스랜드는 블록체인 게임 산업을 발전을 위하여 룸네트워크와 공동으로 Blockchain Game Jam Seoul 을 개최하였습니다. 블록체인과 게임에 관심있는 50여명의 다양한 참가자들이 7개 팀을 이뤄 무박 3일 동안 치열하게 게임을 개발하였고 다채로운 블록체인 기술 활용법을 선보였습니다.
+Mossland held Blockchain Game Jam Seoul jointly with Room Network to develop the blockchain game industry. About 50 various participants who are interested in blockchain and games formed 7 teams and developed the game fiercely for 3 days without a night, and showed various methods of using blockchain technology.
 
 - [Trailer](https://www.youtube.com/watch?v=dXG6vp8MtTU)
 - [Press](https://decenter.kr/NewsView/1S3E9SRMYB/GZ03)
